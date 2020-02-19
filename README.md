@@ -5,6 +5,7 @@ For HackMIT 2019, we focused on building two tools to expand access to open sour
 
 Prizes:
 Best Use of Amazon AWS AI/ ML Services
+
 3rd Place, Data Usability Challenge, Kensho
 
 More details about the project can be found here: https://devpost.com/software/justincase-j16yxu
